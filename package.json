@@ -1,0 +1,28 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "React practice",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hi2suresh/react-practice.git"
+  },
+  "keywords": [],
+  "author": "Suresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hi2suresh/react-practice/issues"
+  },
+  "homepage": "https://github.com/hi2suresh/react-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
